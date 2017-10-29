@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Gunk
+*.pdb
+*.ilk
+*.tlog
+*.vc.*db
+*.ipch
+*.idb
+*.sqlite
+ProjectSettings.json
+*.suo
