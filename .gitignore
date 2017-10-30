@@ -41,3 +41,6 @@
 *.sqlite
 ProjectSettings.json
 *.suo
+*.*wal
+*.*shm
+*.log
